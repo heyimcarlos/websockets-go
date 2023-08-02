@@ -2,7 +2,7 @@
 
 ## basic usage of websockets in golang
 
-- [ ] handle websocket connections
-- [ ] ability to send/receive messages
-- [ ] handle subscriptions to feeds
+- [x] handle websocket connections
+- [x] ability to send/receive messages
+- [x] handle subscriptions to feeds
 - [ ] ui
